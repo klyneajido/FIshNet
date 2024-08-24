@@ -1,2 +1,2 @@
 # FIshNet
-A Online Fish Market App made with React Native
+An Online Fish Market App made with React Native
